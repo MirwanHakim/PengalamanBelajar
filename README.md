@@ -1,2 +1,9 @@
 # PengalamanBelajar
 Repository ini Berisi Pengalaman Belajarku di Dicoding
+
+14 Juni 2021
+Belajar kelas Memulai Pemrograman dengan Kotlin. (Progres 50%)
+
+* Belajar tentang apa itu Kotlin dan alasan menggunakannya.
+
+* Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Kotlin.
