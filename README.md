@@ -1,17 +1,23 @@
 # PengalamanBelajar
-Repository ini Berisi Pengalaman Belajarku di Dicoding
 
-14 Juni 2021
-Belajar kelas Memulai Pemrograman dengan Kotlin. (Progres 50%)
+Repository Ini Berisi Pengalaman Belajar di Dicoding
 
-* Belajar tentang apa itu Kotlin dan alasan menggunakannya.
 
-* Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Kotlin.
+**14 Juni 2021**  
 
-Belajar kelas Memulai Pemrograman dengan Java. (Progres 60%)
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
 
-  * Belajar dasar-dasar Kotlin, seperti struktur dasar, tipe data, string, operator, input output, dan array.
+  * Belajar tentang apa itu Java dan alasan menggunakannya.
 
-  * Belajar control flow dalam Kotlin, seperti perulangan dan percabangan.
+  * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
+
+
+**15 Juni 2021**  
+
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
+
+  * Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
+
+  * Belajar control flow dalam Java, seperti perulangan dan percabangan.
 
   * Belajar tipe data koleksi, seperti list, set, dan map.
